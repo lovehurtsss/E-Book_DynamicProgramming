@@ -13,3 +13,5 @@ Find the number of ways to tile an n × m table using 1 × 2 or 2 × 1 dominoes.
 2. Domenoshki should not overlap
 3. Dominoshki should not climb beyond the edges of the plane
 
+![CODE_Logic](https://github.com/lovehurtsss/E-Book_DynamicProgramming/blob/master/DYNAMIC.png)
+
